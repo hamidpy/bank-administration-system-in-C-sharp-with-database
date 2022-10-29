@@ -1,4 +1,4 @@
-# bank administration system in C sharp with database
+# Bank Administration System in C sharp with database
 The Bank Administration system is a c# project developed by me. In this project, I used an SQL database. Some Feature is :         
 <p>> Login.</p>
 <p>> Create account</p>
